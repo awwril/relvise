@@ -1460,6 +1460,10 @@ body {
   .contacts-footer {
     text-align: left;
   }
+
+  .footer__column_contacts .footer__label {
+    padding: 0;
+  }
 }
 @media (max-width: 600px) {
   .footer__top {
